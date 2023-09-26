@@ -1,6 +1,6 @@
 import './App.css'
-import DrugaKompa from './DrugaKompa'
-import PrvaKompa from './PrvaKompa'
+import DrugaKompa from './components/DrugaKompa'
+import PrvaKompa from './components/PrvaKompa'
 import Dohvati from './Dohvati'
 
 function App() {
